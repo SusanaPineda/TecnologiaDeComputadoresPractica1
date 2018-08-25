@@ -1,0 +1,211 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4/examples
+Edeco3a8
+Z0 w1291103860
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/susi/Desktop
+Z4 8C:/Users/susi/Downloads/material/material/componentes.vhd
+Z5 FC:/Users/susi/Downloads/material/material/componentes.vhd
+l0
+L35
+V^7=V1VP;h^Xj4O;0zSLFL2
+!s100 ZL_ofaf^QbgRiMz:bh8`H3
+Z6 OP;C;10.4;61
+32
+Z7 !s110 1418821073
+!i10b 1
+Z8 !s108 1418821072.291000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susi/Downloads/material/material/componentes.vhd|
+Z10 !s107 C:/Users/susi/Downloads/material/material/componentes.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Afuncional
+R1
+R2
+Z13 DEx4 work 7 deco3a8 0 22 ^7=V1VP;h^Xj4O;0zSLFL2
+l42
+L41
+Z14 V=h<mb9[6`ae>_T5ibk;G40
+Z15 !s100 >Cic9fThTaezd_Lle5Flm0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux8a1
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+VbZ;Hbz?O8:gj><bJh?4SP2
+!s100 DdWf@iojfEV1j?X]?ol]C0
+R6
+32
+Z16 !s110 1418821072
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Afuncional
+R1
+R2
+Z17 DEx4 work 6 mux8a1 0 22 bZ;Hbz?O8:gj><bJh?4SP2
+l12
+L11
+Z18 VfanmiCkf?]>0X0Mk[?=bz2
+Z19 !s100 <fW4XVSB<BfTP[<;TS;Vo2
+R6
+32
+R16
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Epractica_1
+Z20 w1418821057
+R1
+R2
+R3
+Z21 8C:/Users/susi/Desktop/estructural_mux.vhd
+Z22 FC:/Users/susi/Desktop/estructural_mux.vhd
+l0
+L4
+V7jU_W@JO3;?EU5j?gfUQ]3
+!s100 f@Qb0o;J9dEkK=]nQX[;n3
+R6
+32
+Z23 !s110 1418821069
+!i10b 1
+Z24 !s108 1418821069.244000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susi/Desktop/estructural_mux.vhd|
+Z26 !s107 C:/Users/susi/Desktop/estructural_mux.vhd|
+!i113 1
+R11
+R12
+Aestructural_mux
+R17
+R1
+R2
+Z27 DEx4 work 10 practica_1 0 22 7jU_W@JO3;?EU5j?gfUQ]3
+l15
+L10
+Vz_fn5Rm7Ajk?9fbWVGcFV2
+!s100 X6_PggJ[dHH[_IT9go2P90
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Aestructural_deco
+R13
+R1
+R2
+R27
+l14
+L10
+Va8V^<Ekh8:8VBgDjJOz@k0
+!s100 99cU12>An7AbTCTnO?;;?3
+R6
+32
+!s110 1418819753
+!i10b 1
+!s108 1418819753.124000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\susi\Desktop\estructural_deco.vhd|
+!s107 C:\Users\susi\Desktop\estructural_deco.vhd|
+!i113 1
+R11
+R12
+FC:\Users\susi\Desktop\estructural_deco.vhd
+w1418819739
+8C:\Users\susi\Desktop\estructural_deco.vhd
+Aestructural_nor
+R1
+R2
+R27
+l10
+L9
+VIXK0=4`XQo`1;cVAh7V[D3
+!s100 Bk=OWG_X?D9TVS94WI35A3
+R6
+32
+!s110 1418818384
+!i10b 1
+!s108 1418818384.030000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\susi\Desktop\estructural_nor.vhd|
+!s107 C:\Users\susi\Desktop\estructural_nor.vhd|
+!i113 1
+R11
+R12
+FC:\Users\susi\Desktop\estructural_nor.vhd
+w1418818377
+8C:\Users\susi\Desktop\estructural_nor.vhd
+Etest_multiple
+Z28 w1418820640
+R1
+R2
+R3
+Z29 8C:/Users/susi/Desktop/test_mux.vhd
+Z30 FC:/Users/susi/Desktop/test_mux.vhd
+l0
+L4
+VoAC4n5H?N?cQfVK<@F5Hi0
+!s100 DaKBZ@V11=];JdSfiY=ia1
+R6
+32
+Z31 !s110 1418821070
+!i10b 1
+Z32 !s108 1418821070.791000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susi/Desktop/test_mux.vhd|
+Z34 !s107 C:/Users/susi/Desktop/test_mux.vhd|
+!i113 1
+R11
+R12
+Atest
+R27
+R1
+R2
+DEx4 work 13 test_multiple 0 22 oAC4n5H?N?cQfVK<@F5Hi0
+l10
+L7
+VCgT4WzMJ?iA<i`B]SdV;52
+!s100 j][_I1fFCkbfX>HSzG>CP2
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12

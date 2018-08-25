@@ -1,0 +1,18 @@
+C:/Users/susi/Desktop/concurrente_sdp/test_sdp.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\susi\Desktop\concurrente_sdp\test_sdp.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_multiple
+-- Compiling architecture test of test_multiple
+-- Loading entity practica_1
+
+} {} {}} C:/Users/susi/Desktop/concurrente_sdp/concurrente_sdp.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\susi\Desktop\concurrente_sdp\concurrente_sdp.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity practica_1
+-- Compiling architecture concurrente_sdp of practica_1
+
+} {} {}}

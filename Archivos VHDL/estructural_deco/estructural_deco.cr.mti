@@ -1,0 +1,29 @@
+C:/Users/susi/Desktop/estructural_deco.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\susi\Desktop\estructural_deco.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity practica_1
+-- Compiling architecture estructural_deco of practica_1
+-- Loading entity deco3a8
+
+} {} {}} C:/Users/susi/Downloads/material/material/componentes.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/susi/Downloads/material/material/componentes.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8a1
+-- Compiling architecture funcional of mux8a1
+-- Compiling entity deco3a8
+-- Compiling architecture funcional of deco3a8
+
+} {} {}} C:/Users/susi/Desktop/test_deco.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\susi\Desktop\test_deco.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_multiple
+-- Compiling architecture test of test_multiple
+-- Loading entity practica_1
+
+} {} {}}
